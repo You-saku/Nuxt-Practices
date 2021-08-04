@@ -1,5 +1,8 @@
 <template>
-  <Tutorial/>
+<div>
+  <h1>Hello Nuxt</h1>
+  <NuxtLink to="/home">Go to Home</NuxtLink>
+</div>
 </template>
 
 <script lang="ts">
